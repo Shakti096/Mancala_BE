@@ -1,0 +1,59 @@
+mancala: 
+  boardRule:
+    1: 
+      position: 1
+      skipable: N
+      nextPosition: 2
+    2: 
+      position: 2
+      skipable: N
+      nextPosition: 3
+    3: 
+      position: 3
+      skipable: N
+      nextPosition: 4
+    4: 
+      position: 4
+      skipable: N
+      nextPosition: 5
+    5: 
+      position: 5
+      skipable: N
+      nextPosition: 6
+    6: 
+      position: 6
+      skipable: N
+      nextPosition: 7
+    7: 
+      position: 7
+      skipable: Y
+      nextPosition: 8
+    8: 
+      position: 8
+      skipable: N
+      nextPosition: 9
+    9: 
+      position: 9
+      skipable: N
+      nextPosition: 10
+    10: 
+      position: 10
+      skipable: N
+      nextPosition: 11
+    11: 
+      position: 11
+      skipable: N
+      nextPosition: 12
+    12: 
+      position: 12
+      skipable: N
+      nextPosition: 13
+    13: 
+      position: 13
+      skipable: N
+      nextPosition: 14
+    14: 
+      position: 14
+      skipable: Y
+      nextPosition: 1
+      
